@@ -1,4 +1,9 @@
 # Angular ASP.NET Core Project
+AUTHOR: MD MAHFUZUR RAHMAN SIAM
+I work as a Computer Engineer, Web Designer & Developer, App Developer, Digital marketer, Researcher, Content creator at Facebook, Youtube, Rumble,  Instagram & Tiktok.
+Email: ksiam3409@gmail.com
+Website: https://siammahfuz.github.io/
+
 
 This project provides an example of getting started using 
 ASP.NET Core and Angular together in one project and is an updated version of the code shown in the [Integrating Angular with ASP.NET Core RESTful Services on Pluralsight](https://www.pluralsight.com/courses/angular-aspnetcore-restful-services). If you're coming from the Pluralsight course you'll find the Angular code for the project in the `Client` folder now.
